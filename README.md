@@ -8,7 +8,7 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 ### Launch Options
 
-	-high -nojoy -novid -tickrate 128 -threads 12 +cl_forcepreload 1 +mat_queue_mode 2 -freq 144
+	-high -nojoy -novid -tickrate 128 -threads 12 +cl_forcepreload 1 +mat_queue_mode 2 -freq 144 +exec STEEzE.cfg
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
