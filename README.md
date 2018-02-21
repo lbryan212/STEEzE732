@@ -1,6 +1,6 @@
 # STEEzE732's CS:GO Config
 
-This is mainly here to keep track of all my settings, having to start all over was a pain in my a** so I figured I'd keep track of all my settings. Feel free to use them however!
+This is mainly here to keep track of all my settings, having to start all over was a pain in my a** so I figured I'd create this. 
 
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
 
