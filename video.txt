@@ -20,3 +20,4 @@
 	"setting.aspectratiomode"		"0"
 	"setting.nowindowborder"		"1"
 }
+
