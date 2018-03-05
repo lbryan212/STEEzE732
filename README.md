@@ -21,6 +21,6 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + Mouse Polling Rate: 1000hz  
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`  
 + Nvidia Maximum Pre-Rendered Frames: 1  
-+ 1920x1080
++ 1600x900
 + In-Game Audio Ouput: Headphones  
 
