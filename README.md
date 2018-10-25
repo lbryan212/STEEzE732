@@ -8,7 +8,7 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 ### Launch Options
 
-	-high -nojoy -novid -tickrate 128 -threads 12 +cl_forcepreload 1 +mat_queue_mode 2 -freq 144 +exec STEEzE.cfg
+	-novid -no-browser -nojoy +fps_max 300 -tickrate 128 +exec STEEzE732.cfg
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
@@ -16,7 +16,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + Windows Sensitivity: 6/11  
 + Enhance Pointer Precision: No  
 + Mouse DPI: 800  
-+ Mouse Sensitivity: 2.15
++ Mouse Sensitivity: 2.75
 + Mouse Acceleration: Off
 + Mouse Polling Rate: 1000hz  
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`  
