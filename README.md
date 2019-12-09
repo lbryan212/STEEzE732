@@ -1,4 +1,4 @@
-# STEEzE732's CS:GO Config
+# AK-40oz's CS:GO Config
 
 This is mainly here to keep track of all my settings, having to start all over was a pain in my a** so I figured I'd create this. 
 
